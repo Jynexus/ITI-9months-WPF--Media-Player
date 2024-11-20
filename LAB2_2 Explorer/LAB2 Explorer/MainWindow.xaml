@@ -1,0 +1,11 @@
+﻿<Window x:Class="LAB2_Explorer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="352.743" Width="405.478">
+    <Grid>
+        <TextBox x:Name="TextBoxAddressBar" HorizontalAlignment="Left" Height="24" Margin="39,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="336" KeyDown="TextBoxAddressBar_KeyDown"/>
+        <ListBox x:Name="ListBoxDirectory" HorizontalAlignment="Left" Height="270" Margin="10,39,0,0" VerticalAlignment="Top" Width="365"/>
+        <Button x:Name="ButtonUp" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="24" Height="24" FontSize="14" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
