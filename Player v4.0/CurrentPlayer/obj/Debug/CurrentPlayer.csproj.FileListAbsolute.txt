@@ -1,0 +1,116 @@
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csprojResolveAssemblyReference.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.baml
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\App.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.Cache
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csprojResolveAssemblyReference.cache
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.baml
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.g.cs
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\App.g.cs
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+F:\Study\ITI\WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.Cache
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csprojResolveAssemblyReference.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.baml
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\MainWindow.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\App.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\WPF-Project_V01\CurrentPlayer\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.Cache
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.csprojResolveAssemblyReference.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\MainWindow.baml
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\MainWindow.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\App.g.cs
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.Cache
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\MainWindow.baml
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\MainWindow.g.cs
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\App.g.cs
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.Cache
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\App.baml
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.csprojResolveAssemblyReference.cache
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\Study\ITI\WPF\Project\WPF-project_V02\PlayerCurrent\CurrentPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\App.baml
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\Interop.WMPLib.dll
+D:\iTi\MATERIAL\Programming - WPF\Project\PlayerCurrent\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.ResolveComReference.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\CurrentPlayer.exe.config
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\CurrentPlayer.exe
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\CurrentPlayer.pdb
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.csprojAssemblyReference.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.ResolveComReference.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\MainWindow.baml
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\App.baml
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\MainWindow.g.cs
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\App.g.cs
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer_MarkupCompile.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.g.resources
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.Properties.Resources.resources
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.GenerateResource.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.CoreCompileInputs.cache
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.csproj.CopyComplete
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.exe
+D:\Code\iTi\MATERIAL\Programming - WPF\Project\Player v4.0\CurrentPlayer\obj\Debug\CurrentPlayer.pdb
